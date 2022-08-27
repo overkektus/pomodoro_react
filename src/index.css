@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: #F7F9FD; */
+}
+
+body,
+html,
+#root {
+  height: 100%;
+}
